@@ -1,0 +1,5 @@
+PASS: Core ML protobuf field structure, feature contract, and reference arithmetic (not runtime inference)
+PASS: 13 Swift sources referenced; project IDs, resource paths, shared scheme, permissions, asset catalog
+PASS: excluded integrations, no application network code, single app entry, 11 navigation labs, recording limit/cancellation guards
+PASS: independent GPU numerical reference calculated (not Metal execution)
+NOT RUN: Swift compile, Xcode build/signing, Core ML runtime, device inference, UI inspection
